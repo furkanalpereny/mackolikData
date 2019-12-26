@@ -6388,3 +6388,909 @@ JavaScript error: , line 0: uncaught exception: Object
 [Parent 8576, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
 [Parent 8576, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
 1577344717878	Marionette	INFO	Stopped listening on port 44929
+1577378111802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejaQDhm"
+1577378112937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577378112937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577378112937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577378112937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577378115545	Marionette	INFO	Listening on port 40661
+1577378115625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577378116720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK1w6Wb"
+1577378117257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577378117257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577378117257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577378117257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577378119359	Marionette	INFO	Listening on port 43921
+1577378119428	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6459, Gecko_IOThread] WARNING: pipe error (137): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577378129473	Marionette	INFO	Stopped listening on port 40661
+1577378133546	Marionette	INFO	Stopped listening on port 43921
+1577378137418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRWgitb"
+1577378137967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577378137967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577378137967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577378137968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577378139549	Marionette	INFO	Listening on port 46489
+1577378139624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577378140716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeeJ8De"
+1577378141184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577378141185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577378141185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577378141185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577378142635	Marionette	INFO	Listening on port 40233
+1577378142724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+1577378171246	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+1577378173011	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+JavaScript warning: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://164d7f8d-4f30-4581-84d4-18591ab26007/lib/adblockplus.js, line 0: Error: frame.state is undefined
+1577378175983	Marionette	ERROR	[31] No reply from Marionette:Register
+1577378175992	Marionette	ERROR	[33] No reply from Marionette:Register
+1577378222183	Marionette	INFO	Stopped listening on port 40233
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6973, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6973, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f60d04049f3536&origin=https%3A%2F%2Fwww.mackolik.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577378529354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1d9eae8a84f408&origin=https%3A%2F%2Fwww.mackolik.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f8783aa3d88d68&origin=https%3A%2F%2Fwww.mackolik.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1577380072361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/BrowserContentHandler.jsm, line 251: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+1577380141558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+1577380813593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: resource://gre/modules/ActorManagerChild.jsm, line 252: NS_ERROR_XPC_BAD_CONVERT_NATIVE: Component returned failure code: 0x8057000a (NS_ERROR_XPC_BAD_CONVERT_NATIVE) [xpcIJSWeakReference.get]
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577383274483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577383879996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMlq74I"
+1577383880469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577383880469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577383880470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577383880470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577383882050	Marionette	INFO	Listening on port 34763
+1577383882102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577383883193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqPBYnn"
+1577383883650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577383883650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577383883650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577383883650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577383885457	Marionette	INFO	Listening on port 44727
+1577383885499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+1577383966160	Marionette	INFO	Stopped listening on port 44727
+JavaScript error: chrome://browser/content/browser-customization.js, line 172: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.mackolik.com/js/pages/common.ed7b001ddb.js, line 196: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577384037407	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1577384038882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577384076530	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+1577384078340	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+JavaScript warning: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://84aa2ed3-7412-4036-965e-77d478441955/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/addonManager.js, line 255: NS_ERROR_NOT_INITIALIZED
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 10263, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10263, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10263, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577387814978	Marionette	INFO	Stopped listening on port 34763
+1577388024822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVck0JO"
+1577388025304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577388025304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577388025304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577388025305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577388027348	Marionette	INFO	Listening on port 43939
+1577388027430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577388028496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7HdZnS"
+1577388028975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577388028976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577388028976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577388028976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577388030753	Marionette	INFO	Listening on port 37101
+1577388030806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+1577388127225	Marionette	INFO	Stopped listening on port 37101
+[Parent 13932, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14013, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: https://www.mackolik.com/js/pages/common.ed7b001ddb.js, line 196: TypeError: window.googletag.pubads is not a function
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.mackolik.com/mac/%C3%A7aykur-rizespor-vs-bursaspor/istatistik/4olysu8aa7v1tyjqho128u85x line 1 > scriptElement, line 1: TypeError: adElement is null
+1577388200931	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+JavaScript error: https://www.mackolik.com/mac/gen%C3%A7lerbirli%C4%9Fi-vs-konyaspor/istatistik/50pbjdeo2d0k1zx08t56tk0k5 line 1 > scriptElement, line 1: TypeError: adElement is null
+1577388213842	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+JavaScript warning: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: moz-extension://43b8ff3a-9b44-44d2-bfbb-9a6108590acd/lib/adblockplus.js, line 0: Error: frame.state is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191205/r20110914/client/qs_click_protection.js, line 13: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.mackolik.com/js/pages/common.ed7b001ddb.js, line 196: TypeError: window.googletag.pubads is not a function
+1577391915066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 13733, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13733, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 13733, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13733, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577393228473	Marionette	INFO	Stopped listening on port 43939
+1577393251549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL7NL9V"
+1577393252056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577393252056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577393252056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577393252057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577393254094	Marionette	INFO	Listening on port 45433
+1577393254160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577393255228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Ivsdu"
+1577393255724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577393255724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577393255724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577393255724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577393257841	Marionette	INFO	Listening on port 42443
+1577393257936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mackolik.com/js/pages/common.ed7b001ddb.js, line 196: Error: PerformID error: timeout after 5000ms
+1577393269747	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+1577393271770	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Warning processing storage: An unexpected property was found in the WebExtension manifest.
+JavaScript warning: moz-extension://fc5909cc-c812-4151-9780-665376b90bde/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 16: NS_ERROR_NOT_INITIALIZED: 
+1577393316487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTnezHN"
+1577393317063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577393317063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577393317063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577393317063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577393319443	Marionette	INFO	Listening on port 37527
+1577393319498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577393320571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNdu9VY"
+1577393321085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577393321085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577393321086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577393321086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577393323139	Marionette	INFO	Listening on port 44449
+1577393323200	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16886, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1577394154396	Marionette	INFO	Stopped listening on port 44449
+JavaScript error: https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js, line 17: NS_ERROR_NOT_INITIALIZED: 
+[Parent 16312, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577394155111	Marionette	INFO	Stopped listening on port 42443
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 16119, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16119, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577394156261	Marionette	INFO	Stopped listening on port 45433
+[Parent 16697, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16697, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577394157284	Marionette	INFO	Stopped listening on port 37527
+1577394160664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledydATA"
+1577394161087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577394161087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577394161087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577394161087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577394162619	Marionette	INFO	Listening on port 44059
+1577394162674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577394163781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile41p7Tv"
+1577394164237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577394164237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577394164237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577394164237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577394165777	Marionette	INFO	Listening on port 34499
+1577394165793	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17751, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577395367331	Marionette	INFO	Stopped listening on port 34499
+[Parent 17560, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17560, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577395368031	Marionette	INFO	Stopped listening on port 44059
+1577396857788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5RS3Rz"
+1577396858874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577396858874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577396858874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577396858874	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577396860686	Marionette	INFO	Listening on port 41081
+1577396860703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577396861782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOHEDM3"
+1577396862216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577396862216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577396862217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577396862217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577396863685	Marionette	INFO	Listening on port 46123
+1577396863704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: osdlfm is not defined
+[Parent 3600, Gecko_IOThread] WARNING: pipe error (126): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 3600, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577396988777	Marionette	INFO	Stopped listening on port 41081
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3821, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-AWfb_V/firefox-71.0+build5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1577396989193	Marionette	INFO	Stopped listening on port 46123
+1577396996928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileStFC2P"
+1577396997348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577396997349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577396997349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577396997349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577396998919	Marionette	INFO	Listening on port 46181
+1577396998951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577397000019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY039lJ"
+1577397000465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577397000465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577397000465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577397000465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577397001962	Marionette	INFO	Listening on port 45521
+1577397002028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+1577397081664	Marionette	INFO	Stopped listening on port 45521
+JavaScript error: https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv line 97 > scriptElement, line 5: TypeError: el is null
+JavaScript warning: https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv, line 13: Error: Script terminated by timeout at:
+n@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:16373
+e@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:16476
+r@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:17472
+__nr_require<[4]</<@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:2414
+e@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:16515
+e@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:16456
+u@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:19710
+nrWrapper@https://www.mackolik.com/mac/elaz%C4%B1%C4%9Fspor-vs-antalyaspor/jfj43njicn1qr0uwbyyhjmrv:13:19449
+
+JavaScript error: https://cdn2.admatic.com.tr/showad/showad.js, line 2: TypeError: n.win.admatictag is undefined
+JavaScript warning: https://www.mackolik.com/mac/sivasspor-vs-gaziantepspor/5hmceiaznm142wotlwve3io6z, line 13: Error: Script terminated by timeout at:
+nrWrapper@https://www.mackolik.com/mac/sivasspor-vs-gaziantepspor/5hmceiaznm142wotlwve3io6z:13:19447
+[40]</b.prototype.l@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:69:330
+[40]</b.prototype.start/<@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:68:354
+[7]</b.prototype.m@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:13:305
+[7]</b.prototype.j@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:12:399
+[8]</b.prototype.P@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:13:459
+[9]</b.prototype.ta@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:15:27
+b@https://get.s-onetag.com/480c2c19-713b-4b38-a077-b2814c8453fd/tag.min.js:14:21
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1577397160343	Marionette	INFO	Stopped listening on port 46181
